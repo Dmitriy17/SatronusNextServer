@@ -1,0 +1,22 @@
+C:\Users\vnwia\source\repos\SatronusNextServer\SatronusNextServer\bin\Debug\netcoreapp2.0\SatronusNextServer.deps.json
+C:\Users\vnwia\source\repos\SatronusNextServer\SatronusNextServer\bin\Debug\netcoreapp2.0\SatronusNextServer.runtimeconfig.json
+C:\Users\vnwia\source\repos\SatronusNextServer\SatronusNextServer\bin\Debug\netcoreapp2.0\SatronusNextServer.runtimeconfig.dev.json
+C:\Users\vnwia\source\repos\SatronusNextServer\SatronusNextServer\bin\Debug\netcoreapp2.0\SatronusNextServer.dll
+C:\Users\vnwia\source\repos\SatronusNextServer\SatronusNextServer\obj\Debug\netcoreapp2.0\SatronusNextServer.csprojResolveAssemblyReference.cache
+C:\Users\vnwia\source\repos\SatronusNextServer\SatronusNextServer\obj\Debug\netcoreapp2.0\SatronusNextServer.csproj.CoreCompileInputs.cache
+C:\Users\vnwia\source\repos\SatronusNextServer\SatronusNextServer\obj\Debug\netcoreapp2.0\SatronusNextServer.AssemblyInfoInputs.cache
+C:\Users\vnwia\source\repos\SatronusNextServer\SatronusNextServer\obj\Debug\netcoreapp2.0\SatronusNextServer.AssemblyInfo.cs
+C:\Users\vnwia\source\repos\SatronusNextServer\SatronusNextServer\bin\Debug\netcoreapp2.0\SatronusNextServer.pdb
+C:\Users\vnwia\source\repos\SatronusNextServer\SatronusNextServer\obj\Debug\netcoreapp2.0\SatronusNextServer.dll
+C:\Users\vnwia\source\repos\SatronusNextServer\SatronusNextServer\obj\Debug\netcoreapp2.0\SatronusNextServer.pdb
+C:\Users\Dmytro\Downloads\Telegram Desktop\SatronusNextServer\SatronusNextServer\SatronusNextServer\bin\Debug\netcoreapp2.0\SatronusNextServer.deps.json
+C:\Users\Dmytro\Downloads\Telegram Desktop\SatronusNextServer\SatronusNextServer\SatronusNextServer\bin\Debug\netcoreapp2.0\SatronusNextServer.runtimeconfig.json
+C:\Users\Dmytro\Downloads\Telegram Desktop\SatronusNextServer\SatronusNextServer\SatronusNextServer\bin\Debug\netcoreapp2.0\SatronusNextServer.runtimeconfig.dev.json
+C:\Users\Dmytro\Downloads\Telegram Desktop\SatronusNextServer\SatronusNextServer\SatronusNextServer\bin\Debug\netcoreapp2.0\SatronusNextServer.dll
+C:\Users\Dmytro\Downloads\Telegram Desktop\SatronusNextServer\SatronusNextServer\SatronusNextServer\bin\Debug\netcoreapp2.0\SatronusNextServer.pdb
+C:\Users\Dmytro\Downloads\Telegram Desktop\SatronusNextServer\SatronusNextServer\SatronusNextServer\obj\Debug\netcoreapp2.0\SatronusNextServer.csprojResolveAssemblyReference.cache
+C:\Users\Dmytro\Downloads\Telegram Desktop\SatronusNextServer\SatronusNextServer\SatronusNextServer\obj\Debug\netcoreapp2.0\SatronusNextServer.csproj.CoreCompileInputs.cache
+C:\Users\Dmytro\Downloads\Telegram Desktop\SatronusNextServer\SatronusNextServer\SatronusNextServer\obj\Debug\netcoreapp2.0\SatronusNextServer.AssemblyInfoInputs.cache
+C:\Users\Dmytro\Downloads\Telegram Desktop\SatronusNextServer\SatronusNextServer\SatronusNextServer\obj\Debug\netcoreapp2.0\SatronusNextServer.AssemblyInfo.cs
+C:\Users\Dmytro\Downloads\Telegram Desktop\SatronusNextServer\SatronusNextServer\SatronusNextServer\obj\Debug\netcoreapp2.0\SatronusNextServer.dll
+C:\Users\Dmytro\Downloads\Telegram Desktop\SatronusNextServer\SatronusNextServer\SatronusNextServer\obj\Debug\netcoreapp2.0\SatronusNextServer.pdb

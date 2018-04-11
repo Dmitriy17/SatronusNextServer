@@ -1,0 +1,11 @@
+C:\Users\vnwia\source\repos\SatronusNextServer\Console\bin\Debug\netcoreapp2.0\Console.deps.json
+C:\Users\vnwia\source\repos\SatronusNextServer\Console\bin\Debug\netcoreapp2.0\Console.runtimeconfig.json
+C:\Users\vnwia\source\repos\SatronusNextServer\Console\bin\Debug\netcoreapp2.0\Console.runtimeconfig.dev.json
+C:\Users\vnwia\source\repos\SatronusNextServer\Console\bin\Debug\netcoreapp2.0\Console.dll
+C:\Users\vnwia\source\repos\SatronusNextServer\Console\obj\Debug\netcoreapp2.0\Console.csprojResolveAssemblyReference.cache
+C:\Users\vnwia\source\repos\SatronusNextServer\Console\obj\Debug\netcoreapp2.0\Console.csproj.CoreCompileInputs.cache
+C:\Users\vnwia\source\repos\SatronusNextServer\Console\obj\Debug\netcoreapp2.0\Console.AssemblyInfoInputs.cache
+C:\Users\vnwia\source\repos\SatronusNextServer\Console\obj\Debug\netcoreapp2.0\Console.AssemblyInfo.cs
+C:\Users\vnwia\source\repos\SatronusNextServer\Console\bin\Debug\netcoreapp2.0\Console.pdb
+C:\Users\vnwia\source\repos\SatronusNextServer\Console\obj\Debug\netcoreapp2.0\Console.dll
+C:\Users\vnwia\source\repos\SatronusNextServer\Console\obj\Debug\netcoreapp2.0\Console.pdb
